@@ -20,11 +20,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2210.04522-b31b1b.svg)](https://arxiv.org/abs/2210.04522)
 [![Azure Blob](https://img.shields.io/badge/Model%20Weights-4285F4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)]()
 </div>
-<object data="./assets/task2.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/task2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/task2.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![](https://github.com/naykun/HORIZON/blob/master/assets/task.png?raw=true)
+
 ## Updates
 
 [Soon] Model weights release.
