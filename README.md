@@ -20,7 +20,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2210.04522-b31b1b.svg)](https://arxiv.org/abs/2210.04522)
 [![Azure Blob](https://img.shields.io/badge/Model%20Weights-4285F4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)]()
 </div>
-![](https://github.com/naykun/HORIZON/blob/master/assets/task.png?raw=true)
+
+![ds](https://github.com/naykun/HORIZON/blob/master/assets/task.png?raw=true)
 
 ## Updates
 
