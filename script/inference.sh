@@ -1,0 +1,1 @@
+python main.py --cf config/pano/horizon_mini.py  --eval_visu --root_dir ckpt/ --checkpoint_path ckpt/last.pth --tbs 8  --ebs 16
